@@ -1,6 +1,6 @@
 ## Javascript-Snake-Game (vanilla javascript)
 
-<img src = "./screenshot.png" width = "600" />
+<img src = "./screenshot.png" width = "1200" />
 
 `requestAnimationFrame`, `window 함수`, `grid layout` 등을 이용한 실습
 
@@ -10,4 +10,4 @@
 
 앞으로도 배운 것들을 많이 적용해보자.
 
-#### [video tutorial](https://www.youtube.com/watch?v=QTcIXok9wNY&feature=youtu.be).
+#### [video tutorial](https://www.youtube.com/watch?v=QTcIXok9wNY&feature=youtu.be)
